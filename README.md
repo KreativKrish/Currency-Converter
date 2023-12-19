@@ -1,6 +1,6 @@
 # Currency-Converter
 <br>
-## A Simple Currency converter
+# A Simple Currency converter using HTML, CSS & JS.
 <br>
-link: []
+(link):[https://kreativkrish.github.io/Currency-Converter/]
 
